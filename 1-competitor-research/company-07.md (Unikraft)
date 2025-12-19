@@ -1,0 +1,36 @@
+# Company: Unikraft
+
+- Website: https://unikraft.org
+- Founder(s): Felipe Huici
+- Location: EU / Global
+- Primary Category: Cloud Infrastructure
+
+## What they do
+Unikraft builds lightweight unikernels for cloud-native workloads.
+
+## Target user (ICP)
+Infra engineers, performance-focused teams.
+
+## Key features
+- Unikernels
+- Faster boot times
+- Lower resource usage
+
+## Pricing
+Open-source + enterprise
+
+## Positioning
+“Build fast, secure cloud workloads.”
+
+## Overlap with Clode
+- Cloud performance optimization
+
+## How Clode is different
+- Clode abstracts infra complexity
+
+## DevRel angle
+Performance matters, but automation scales impact.
+
+## Content hooks
+1. Speed without automation still burns engineers
+2. Ops complexity is the real bottleneck
