@@ -1,0 +1,36 @@
+# Company: Edge Impulse
+
+- Website: https://edgeimpulse.com
+- Founder(s): Zach Shelby
+- Location: US
+- Primary Category: AI Integration & Development Assistants
+
+## What they do
+Edge Impulse helps build and deploy ML models on edge devices.
+
+## Target user (ICP)
+ML engineers, IoT teams.
+
+## Key features
+- Edge ML tooling
+- Model deployment
+- Device management
+
+## Pricing
+Free + paid
+
+## Positioning
+“Machine learning on the edge.”
+
+## Overlap with Clode
+- Deployment automation ideas
+
+## How Clode is different
+- Clode focuses on cloud operations
+
+## DevRel angle
+Deployment is universal, context differs.
+
+## Content hooks
+1. Deployment complexity exists everywhere
+2. Ops problems scale with systems
