@@ -1,0 +1,36 @@
+# Company: Configu
+
+- Website: https://configu.com
+- Founder(s): Peleg Porat
+- Location: Israel
+- Primary Category: Developer Tools
+
+## What they do
+Configu helps teams manage and validate configuration files at scale.
+
+## Target user (ICP)
+Developers, DevOps engineers managing complex configs.
+
+## Key features
+- Config validation
+- Schema enforcement
+- Config drift prevention
+
+## Pricing
+Free + paid tiers
+
+## Positioning
+“Configuration done right.”
+
+## Overlap with Clode
+- Improves reliability of deployment workflows
+
+## How Clode is different
+- Clode automates full cloud operations, not just configs
+
+## DevRel angle
+Position Clode as operating beyond config correctness.
+
+## Content hooks
+1. Config problems are symptoms, not root causes
+2. Automation should reduce decision fatigue
