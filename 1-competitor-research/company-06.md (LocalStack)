@@ -1,0 +1,36 @@
+# Company: LocalStack
+
+- Website: https://localstack.cloud
+- Founder(s): Waldemar Hummer
+- Location: Global
+- Primary Category: Cloud Infrastructure
+
+## What they do
+LocalStack emulates AWS services locally for development and testing.
+
+## Target user (ICP)
+Cloud developers, DevOps engineers.
+
+## Key features
+- AWS service emulation
+- Local testing
+- Faster dev cycles
+
+## Pricing
+Free + paid
+
+## Positioning
+“A fully functional local AWS cloud stack.”
+
+## Overlap with Clode
+- Cloud lifecycle support
+
+## How Clode is different
+- Clode focuses on real production environments
+
+## DevRel angle
+Local success doesn’t guarantee production stability.
+
+## Content hooks
+1. Local success ≠ production success
+2. Testing is only half the story
