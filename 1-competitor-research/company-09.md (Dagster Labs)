@@ -1,0 +1,36 @@
+# Company: Dagster Labs
+
+- Website: https://dagster.io
+- Founder(s): Nick Schrock
+- Location: US
+- Primary Category: Data Analytics
+
+## What they do
+Dagster is a data orchestration platform.
+
+## Target user (ICP)
+Data engineers.
+
+## Key features
+- Data pipelines
+- Orchestration
+- Monitoring
+
+## Pricing
+Free + paid
+
+## Positioning
+“Build reliable data pipelines.”
+
+## Overlap with Clode
+- Workflow automation concepts
+
+## How Clode is different
+- Clode focuses on cloud ops, not data pipelines
+
+## DevRel angle
+Ops automation principles apply beyond data.
+
+## Content hooks
+1. Orchestration works when it’s invisible
+2. Reliability is automation, not alerts
