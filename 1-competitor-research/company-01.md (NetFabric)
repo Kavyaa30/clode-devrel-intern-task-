@@ -1,0 +1,39 @@
+# Company: NetFabric
+
+- Website: https://netfabric.ai
+- Founder(s): Benjamin Bichsel
+- Location: San Francisco, US
+- Primary Category: Platform Engineering / Internal Developer Platforms
+
+## What they do
+NetFabric provides a platform to automate and standardize cloud infrastructure and internal developer workflows.
+
+## Target user (ICP)
+Platform engineers, DevOps teams, mid-to-large engineering organizations.
+
+## Key features
+- Infrastructure automation
+- Environment standardization
+- Platform abstractions
+- Developer self-service
+
+## Pricing
+Not publicly listed
+
+## Positioning
+“Internal platforms without the complexity.”
+
+## Overlap with Clode
+- Cloud infrastructure automation
+- Platform engineering focus
+
+## How Clode is different
+- Clode emphasizes AI-driven automation
+- Stronger focus on day-2 operations and monitoring
+
+## DevRel angle
+Talk about reducing operational toil beyond platform setup.
+
+## Content hooks
+1. Why most internal platforms fail at day-2 operations
+2. Platforms should remove work, not add dashboards
